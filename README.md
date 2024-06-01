@@ -1,6 +1,6 @@
 # Focus Line
 
-[Download Focus Line from Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons)
+[Download Focus Line from Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/focus-line/ajkfgjmebminffkiolfpbmepngldochg)
 
 Use Focus Line app to guide and enhance your experience with a reading ruler to maintain your focus on the reading line.
 
